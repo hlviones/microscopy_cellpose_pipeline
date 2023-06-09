@@ -3,10 +3,13 @@
 This project is a collection of scripts for executing a microscopy cellpose pipeline.
 
 ## Overview!
-[2862f2a47d212d20c4569d68e68b83bd](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/9ed55640-c2e8-4ca9-88e9-e54720aa095c)
 
 
 The microscopy cellpose pipeline consists of a set of scripts that automate the processing of microscopy images using the Cellpose algorithm. The pipeline performs image segmentation and analysis tasks on a collection of input images and generates corresponding output results. The aim of this project was to automate the previously manually run pipeline and to move it from a single windows machine to the PGB-CBF joint cluster https://pgb.liv.ac.uk/~hlviones/doc/. This implementation was a major improvement on the previous system and resulted in a 60x reduction in run time.
+
+## Workflow
+
+![2862f2a47d212d20c4569d68e68b83bd](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/8202989d-358c-426d-af1a-41ceadd035ce)
 
 The project is organized into the following folders:
 - `input`: Contains the input images to be processed by the pipeline.
