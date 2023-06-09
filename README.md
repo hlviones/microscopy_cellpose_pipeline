@@ -2,7 +2,7 @@
 
 This project is a collection of scripts for executing a microscopy cellpose pipeline.
 
-## Overview!
+## Overview
 
 
 The microscopy cellpose pipeline consists of a set of scripts that automate the processing of microscopy images using the Cellpose algorithm. The pipeline performs image segmentation and analysis tasks on a collection of input images and generates corresponding output results. The aim of this project was to automate the previously manually run pipeline and to move it from a single windows machine to the PGB-CBF joint cluster https://pgb.liv.ac.uk/~hlviones/doc/. This implementation was a major improvement on the previous system and resulted in a 60x reduction in run time.
