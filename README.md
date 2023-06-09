@@ -9,7 +9,12 @@ The microscopy cellpose pipeline consists of a set of scripts that automate the 
 
 ## Workflow
 
-![2862f2a47d212d20c4569d68e68b83bd](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/8202989d-358c-426d-af1a-41ceadd035ce)
+![Untitled-1](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/264e1b48-7cd1-4610-b4ab-3853e7c147b2)
+
+## Example Output
+![image](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/77e7edfb-59ca-4c82-a26d-30a3384363b4)
+![image](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/7714cb07-0695-41e4-8a9d-bad89c568e7d)
+
 
 ## Folder Structure
 
@@ -37,7 +42,7 @@ Note: Make sure to adjust the paths in the scripts if necessary to match your sp
 
 ## Acknowledgments
 
-Many thanks to the University of Liverpool [CBF](https://www.liverpool.ac.uk/computational-biology-facility/) and [CCI](https://www.liverpool.ac.uk/health-and-life-sciences/research/liverpool-shared-research-facilities/bio-imaging/centre-for-cell-imaging/) 
+Many thanks to the University of Liverpool Computation Biology Facility [CBF](https://www.liverpool.ac.uk/computational-biology-facility/) and Center for Cell Imaging [CCI](https://www.liverpool.ac.uk/health-and-life-sciences/research/liverpool-shared-research-facilities/bio-imaging/centre-for-cell-imaging/) 
 
 
 ## License
