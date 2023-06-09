@@ -1,4 +1,4 @@
-# microscopy_cellpose_pipeline
+# Microscopy Cellular Segmentation Pipeline
 
 This project is a collection of scripts for executing a microscopy cellpose pipeline.
 
