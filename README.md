@@ -13,7 +13,8 @@ The microscopy cellpose pipeline consists of a set of scripts that automate the 
 
 ## Example Output
 ![image](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/77e7edfb-59ca-4c82-a26d-30a3384363b4)
-![image](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/7714cb07-0695-41e4-8a9d-bad89c568e7d)
+![image](https://github.com/hlviones/microscopy_cellpose_pipeline/assets/83133751/e4e31c02-0c7e-4a12-8d07-8bc49284bb92)
+
 
 
 ## Folder Structure
