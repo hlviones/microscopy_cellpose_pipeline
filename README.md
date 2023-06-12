@@ -24,6 +24,8 @@ The microscopy cellpose pipeline consists of a set of scripts that automate the 
 1. Clone this repository
 2. Navigate to base directory
 3. conda env create -f conda/cellpose.yml
+4. Download [Fiji](https://imagej.net/software/fiji/downloads)
+5. Unzip and move "Fiji.app" folder to scripts/ folder
 
 ## Usage
 
