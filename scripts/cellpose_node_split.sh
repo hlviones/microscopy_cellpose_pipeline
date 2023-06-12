@@ -9,7 +9,7 @@ output_file="$base_dir/log/${SLURM_JOB_ID}/${1}_core/node/${SLURM_JOB_ID}"
 #SBATCH --output="$output_file"
 
 eval "$(conda shell.bash hook)"
-conda activate cellpose_1
+conda activate cellpose
 
 echo "Array ID: $SLURM_ARRAY_TASK_ID"
 input_dir="$base_dir/output/${SLURM_ARRAY_TASK_ID}_Sancy-tracking_B2_24-stack/${SLURM_ARRAY_TASK_ID}_Sancy-tracking_B2_24-stack.tif"
