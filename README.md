@@ -28,7 +28,7 @@ The microscopy cellpose pipeline consists of a set of scripts that automate the 
 
 1. Clone this repository
 2. Navigate to base directory
-3. conda env create -f cellpose.yml
+3. conda env create -f conda/cellpose.yml
 
 ## Usage
 
